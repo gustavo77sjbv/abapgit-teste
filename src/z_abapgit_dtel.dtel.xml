@@ -10,11 +10,11 @@
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>77 data element </DDTEXT>
-    <REPTEXT>77 data element</REPTEXT>
-    <SCRTEXT_S>77 dt elem</SCRTEXT_S>
-    <SCRTEXT_M>77 data element</SCRTEXT_M>
-    <SCRTEXT_L>77 data element</SCRTEXT_L>
+    <DDTEXT>88 data element </DDTEXT>
+    <REPTEXT>88 data element</REPTEXT>
+    <SCRTEXT_S>88 dt elem</SCRTEXT_S>
+    <SCRTEXT_M>Feature branch teste</SCRTEXT_M>
+    <SCRTEXT_L>Feature branch teste</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <REFKIND>D</REFKIND>
     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
