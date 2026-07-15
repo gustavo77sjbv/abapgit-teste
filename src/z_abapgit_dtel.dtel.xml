@@ -10,11 +10,11 @@
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>my data element</DDTEXT>
-    <REPTEXT>my data element</REPTEXT>
-    <SCRTEXT_S>my dt elem</SCRTEXT_S>
-    <SCRTEXT_M>my data element</SCRTEXT_M>
-    <SCRTEXT_L>my data element</SCRTEXT_L>
+    <DDTEXT>77 data element </DDTEXT>
+    <REPTEXT>77 data element</REPTEXT>
+    <SCRTEXT_S>77 dt elem</SCRTEXT_S>
+    <SCRTEXT_M>77 data element</SCRTEXT_M>
+    <SCRTEXT_L>77 data element</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <REFKIND>D</REFKIND>
     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
